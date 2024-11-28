@@ -53,7 +53,7 @@ function zodiacMessage(sign) {
 function dateOfBirth(sign) {
     switch (sign) {
         case 'Aries':
-            return 'You were born betweeen March 21–April 19';
+            return 'March 21–April 19';
 
         case 'Taurus':
             return 'April 20–May 20';
